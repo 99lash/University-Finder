@@ -1,1 +1,1 @@
-"# University-Finder" 
+# University-Finder 
